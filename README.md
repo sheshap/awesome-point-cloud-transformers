@@ -3,5 +3,10 @@
 ## Papers
 
 [[Arxiv]](https://arxiv.org/pdf/2104.13044.pdf) Dual Transformer for Point Cloud Analysis.
+
 [[Arxiv]](https://arxiv.org/pdf/2102.08606.pdf) Centroid Transformers: Learning to Abstract with Attention.
-[[Arxiv]](https://arxiv.org/pdf/2103.15808.pdf) CvT: Introducing Convolutions to Vision Transformers. [[Code]](https://github.com/microsoft/CvT)
+
+[[Arxiv]](https://arxiv.org/pdf/2103.15808.pdf) CvT: Introducing Convolutions to Vision Transformers. [[Code]](https://github.com/microsoft/CvT) [[Pytorch]](https://github.com/rishikksh20/convolution-vision-transformers)
+
+[[Arxiv]](https://arxiv.org/pdf/2007.11679.pdf) Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks. 
+
