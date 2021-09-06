@@ -13,3 +13,12 @@
 [[Arxiv]](https://arxiv.org/pdf/2102.13419.pdf) Iterative SE(3)-Transformers.
 
 [[Arxiv]](https://arxiv.org/pdf/1811.11209.pdf) Iterative Transformer Network for 3D Point Cloud. [[Code]](https://github.com/wentaoyuan/it-net)
+
+[[CVM]](https://link.springer.com/content/pdf/10.1007/s41095-021-0229-5.pdf) PCT: Point Cloud Transformer. [[Code]](https://github.com/MenghaoGuo/PCT)
+
+[[Arxiv]](https://arxiv.org/pdf/2104.13636.pdf) Point Cloud Learning with Transformer.
+
+[[Arxiv]](https://arxiv.org/pdf/2012.09164.pdf) Point Transformer.
+
+[[Arxiv]](https://arxiv.org/pdf/2011.00931.pdf) Point Transformer.
+
