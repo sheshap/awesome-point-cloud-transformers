@@ -24,3 +24,5 @@
 
 [[NeurIPS]](https://proceedings.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf) SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks. [[Code]](https://github.com/FabianFuchsML/se3-transformer-public)
 
+[[TPAMI]](https://ieeexplore-ieee-org.udel.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=9393615) [[Arxiv]](https://arxiv.org/pdf/1906.10887.pdf) Spatial Transformer for 3D Point Clouds. [[Code]](https://github.com/samaonline/spatial-transformer-for-3d-point-clouds)
+
