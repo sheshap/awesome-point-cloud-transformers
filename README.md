@@ -26,3 +26,6 @@
 
 [[TPAMI]](https://ieeexplore-ieee-org.udel.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=9393615) [[Arxiv]](https://arxiv.org/pdf/1906.10887.pdf) Spatial Transformer for 3D Point Clouds. [[Code]](https://github.com/samaonline/spatial-transformer-for-3d-point-clouds)
 
+[[ICCV]](https://arxiv.org/pdf/2108.04444.pdf) SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with
+Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
+
