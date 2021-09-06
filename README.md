@@ -10,3 +10,6 @@
 
 [[Arxiv]](https://arxiv.org/pdf/2007.11679.pdf) Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks. 
 
+[[Arxiv]](https://arxiv.org/pdf/2102.13419.pdf) Iterative SE(3)-Transformers.
+
+[[Arxiv]](https://arxiv.org/pdf/1811.11209.pdf) Iterative Transformer Network for 3D Point Cloud. [[Code]](https://github.com/wentaoyuan/it-net)
