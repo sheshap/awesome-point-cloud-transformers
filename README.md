@@ -22,3 +22,5 @@
 
 [[Arxiv]](https://arxiv.org/pdf/2011.00931.pdf) Point Transformer.
 
+[[NeurIPS]](https://proceedings.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf) SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks. [[Code]](https://github.com/FabianFuchsML/se3-transformer-public)
+
