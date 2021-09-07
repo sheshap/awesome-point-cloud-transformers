@@ -39,3 +39,5 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[MLSciTech]](https://iopscience.iop.org/article/10.1088/2632-2153/ac07f6/pdf) Point cloud transformers applied to collider physics.
 
+[[Arxiv]](https://arxiv.org/pdf/2011.03921.pdf) Point Transformer for Shape Classification and Retrieval of 3D and Urban Roof Point Clouds.
+
