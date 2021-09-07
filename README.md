@@ -30,3 +30,12 @@
 Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[Arxiv]](https://arxiv.org/pdf/2108.06076.pdf) Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning. [[Code coming soon]](https://github.com/2020zhangcheng/PVT)
+
+[[IJCAI]](https://www.ijcai.org/proceedings/2021/0159.pdf) Local Representation is Not Enough: Soft Point-wise Transformer for Descriptor and Detector of Local Features.
+
+[[RGate]](https://www.researchgate.net/profile/Alexander-Perzylo/publication/353955048_PCTMA-Net_Point_Cloud_Transformer_with_Morphing_Atlas-based_Point_Generation_Network_for_Dense_Point_Cloud_Completion/links/611bd6930c2bfa282a50001d/PCTMA-Net-Point-Cloud-Transformer-with-Morphing-Atlas-based-Point-Generation-Network-for-Dense-Point-Cloud-Completion.pdf) PCTMA-Net: Point Cloud Transformer with Morphing Atlas-based Point Generation Network for Dense Point Cloud Completion.
+
+[[Arxiv]](https://arxiv.org/pdf/2103.12292.pdf) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation. [[Code]](https://github.com/dachengxiaocheng/NDT-Transformer)
+
+[[MLSciTech]](https://iopscience.iop.org/article/10.1088/2632-2153/ac07f6/pdf) Point cloud transformers applied to collider physics.
+
