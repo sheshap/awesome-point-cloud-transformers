@@ -29,3 +29,4 @@
 [[ICCV]](https://arxiv.org/pdf/2108.04444.pdf) SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with
 Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
+[[Arxiv]](https://arxiv.org/pdf/2108.06076.pdf) Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning. [[Code coming soon]](https://github.com/2020zhangcheng/PVT)
