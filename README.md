@@ -41,3 +41,5 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[Arxiv]](https://arxiv.org/pdf/2011.03921.pdf) Point Transformer for Shape Classification and Retrieval of 3D and Urban Roof Point Clouds.
 
+[[ICMLW]](https://www.ml.informatik.tu-darmstadt.de/papers/stelzner2020ood_gast.pdf) Generative Adversarial Set Transformers.
+
