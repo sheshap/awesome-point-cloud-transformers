@@ -2,6 +2,7 @@
 
 ## Papers
 
+# 3D
 [[Arxiv]](https://arxiv.org/pdf/2104.13044.pdf) Dual Transformer for Point Cloud Analysis.
 
 [[Arxiv]](https://arxiv.org/pdf/2102.08606.pdf) Centroid Transformers: Learning to Abstract with Attention.
@@ -42,4 +43,11 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 [[Arxiv]](https://arxiv.org/pdf/2011.03921.pdf) Point Transformer for Shape Classification and Retrieval of 3D and Urban Roof Point Clouds.
 
 [[ICMLW]](https://www.ml.informatik.tu-darmstadt.de/papers/stelzner2020ood_gast.pdf) Generative Adversarial Set Transformers.
+
+# 4D
+[[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.pdf) Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[CODE]](https://github.com/hehefan/P4Transformer)
+
+[[ICLR]](https://openreview.net/pdf?id=O3bqkf_Puys) PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [[Code]](https://github.com/hehefan/Point-Spatio-Temporal-Convolution)
+
+[[TIM]](https://ieeexplore-ieee-org.udel.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=9522122) Anchor-Based Spatio-Temporal Attention 3D Convolutional Networks for Dynamic 3D Point Cloud Sequences.
 
