@@ -48,6 +48,11 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[Arxiv]](https://arxiv.org/pdf/2107.00511.pdf) TransSC: Transformer-based Shape Completion for Grasp Evaluation.
 
+[[Arxiv]](https://arxiv.org/pdf/2108.02388.pdf) TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding.
+
+[[Arxiv]](https://arxiv.org/pdf/2108.10723.pdf) Improving 3D Object Detection with Channel-wise Transformer.
+
+[[MDPI]](https://doi.org/10.3390/s21113854) Radar Transformer: An Object Classification Network Based on 4D MMW Imaging Radar.
 
 
 # 4D
