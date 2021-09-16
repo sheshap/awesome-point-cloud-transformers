@@ -36,6 +36,8 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[RGate]](https://www.researchgate.net/profile/Alexander-Perzylo/publication/353955048_PCTMA-Net_Point_Cloud_Transformer_with_Morphing_Atlas-based_Point_Generation_Network_for_Dense_Point_Cloud_Completion/links/611bd6930c2bfa282a50001d/PCTMA-Net-Point-Cloud-Transformer-with-Morphing-Atlas-based-Point-Generation-Network-for-Dense-Point-Cloud-Completion.pdf) PCTMA-Net: Point Cloud Transformer with Morphing Atlas-based Point Generation Network for Dense Point Cloud Completion.
 
+[[Arxiv]](https://arxiv.org/pdf/2105.00149.pdf) SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition.
+
 [[Arxiv]](https://arxiv.org/pdf/2103.12292.pdf) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation. [[Code]](https://github.com/dachengxiaocheng/NDT-Transformer)
 
 [[MLSciTech]](https://iopscience.iop.org/article/10.1088/2632-2153/ac07f6/pdf) Point cloud transformers applied to collider physics.
@@ -43,6 +45,10 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 [[Arxiv]](https://arxiv.org/pdf/2011.03921.pdf) Point Transformer for Shape Classification and Retrieval of 3D and Urban Roof Point Clouds.
 
 [[ICMLW]](https://www.ml.informatik.tu-darmstadt.de/papers/stelzner2020ood_gast.pdf) Generative Adversarial Set Transformers.
+
+[[Arxiv]](https://arxiv.org/pdf/2107.00511.pdf) TransSC: Transformer-based Shape Completion for Grasp Evaluation.
+
+
 
 # 4D
 [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.pdf) Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[CODE]](https://github.com/hehefan/P4Transformer)
