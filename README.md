@@ -54,6 +54,7 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[MDPI]](https://doi.org/10.3390/s21113854) Radar Transformer: An Object Classification Network Based on 4D MMW Imaging Radar.
 
+[[Arxiv]](https://arxiv.org/pdf/2111.00207.pdf) PatchFormer: A Versatile 3D Transformer Based on Patch Attention.
 
 # 4D
 [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.pdf) Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[CODE]](https://github.com/hehefan/P4Transformer)
@@ -62,3 +63,4 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[TIM]](https://ieeexplore-ieee-org.udel.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=9522122) Anchor-Based Spatio-Temporal Attention 3D Convolutional Networks for Dynamic 3D Point Cloud Sequences.
 
+[[Arxiv]](https://arxiv.org/pdf/2110.09783.pdf) Spatial-Temporal Transformer for 3D Point Cloud Sequences.
