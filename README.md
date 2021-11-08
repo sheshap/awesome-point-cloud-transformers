@@ -56,6 +56,12 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 [[Arxiv]](https://arxiv.org/pdf/2111.00207.pdf) PatchFormer: A Versatile 3D Transformer Based on Patch Attention.
 
+[[Arxiv]](https://arxiv.org/pdf/2109.05566.pdf) PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds.[[Code]](https://github.com/OPEN-AIR-SUN/PQ-Transformer)
+
+[[Arxiv]](https://arxiv.org/pdf/2109.08141.pdf)An End-to-End Transformer Model for 3D Object Detection.[[Project Page]](https://facebookresearch.github.io/3detr/)
+
+[[IROS]](https://arxiv.org/pdf/2108.06455.pdf)PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds.[[Code coming Soon]](https://github.com/shanjiayao/PTT)
+
 # 4D
 [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.pdf) Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [[CODE]](https://github.com/hehefan/P4Transformer)
 
