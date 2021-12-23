@@ -70,3 +70,7 @@ Skip-Transformer. [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 [[TIM]](https://ieeexplore-ieee-org.udel.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=9522122) Anchor-Based Spatio-Temporal Attention 3D Convolutional Networks for Dynamic 3D Point Cloud Sequences.
 
 [[Arxiv]](https://arxiv.org/pdf/2110.09783.pdf) Spatial-Temporal Transformer for 3D Point Cloud Sequences.
+
+[[Arxiv]](https://arxiv.org/pdf/2111.08492.pdf) SequentialPointNet: A strong parallelized point cloud sequence classification network for 3D action recognition [[Code]](https://github.com/XingLi1012/SequentialPointNet)
+
+[[Arxiv]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9503414) GeometryMotion-Net: A Strong Two-stream Baseline for 3D Action Recognition.
